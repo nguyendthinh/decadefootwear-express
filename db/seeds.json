@@ -1,0 +1,14 @@
+[
+  {
+  "brand": "Jordan",
+  "quantity": 24
+},
+  {
+  "brand": "Addidas",
+  "quantity": 42
+},
+  {
+  "brand": "Nike",
+  "quantity": 35
+  }
+]

@@ -1,0 +1,6 @@
+<h2>{{shoes.length}} Brands Available</h2>
+{{#each shoes as |shoe index|}}
+<h3>
+  <a href="/shoes/{{shoe.brand}}">{{shoe.brand}}</a>
+</h3>
+{{/each}}
